@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">Trip Expenditure</string>
+    <string name="tagline_local_first">100% On-Device • Deposits, Splits &amp; PDF/CSV Export</string>
+    <string name="theme_modern_horizon">Modern Horizon</string>
+    <string name="theme_minimalist_nordic">Minimalist Nordic</string>
+    <string name="theme_high_energy_pulse">High-Energy Pulse</string>
+    <string name="action_compare_themes">Compare Themes</string>
+    <string name="action_new_trip">New Trip</string>
+    <string name="action_add_expense">Add Expense</string>
+    <string name="action_add_stop">Add Stop</string>
+    <string name="action_export_pdf">Export PDF</string>
+    <string name="action_export_csv">Export CSV</string>
+    <string name="action_settle_up">Settle Up</string>
+    <string name="action_export_ledger">Export Report</string>
+    <string name="tab_itinerary">Itinerary</string>
+    <string name="tab_expenses">Expenses &amp; Splits</string>
+    <string name="tab_export_report">Export PDF/CSV</string>
+    <string name="tab_vault">Document Vault</string>
+    <string name="label_net_balance">Your Net Position</string>
+    <string name="label_data_export">Detailed PDF &amp; CSV Export</string>
+    <string name="cd_theme_switcher">Switch application visual theme</string>
+    <string name="cd_compare_themes">Open visual theme showcase comparison</string>
+    <string name="cd_back_dashboard">Back to Dashboard</string>
+    <string name="cd_export_ledger">Export and share trip expenditure report in PDF or CSV</string>
+    <string name="cd_upvote_stop">Vote for itinerary stop</string>
+    <string name="cd_toggle_visited">Toggle stop visited status</string>
+    <string name="label_start_date">Start Date</string>
+    <string name="label_end_date">End Date</string>
+    <string name="label_valid_date">Valid Date</string>
+    <string name="label_number_of_days">Number of Days</string>
+    <string name="label_number_of_nights">Number of Nights</string>
+    <string name="cd_open_date_picker">Open calendar date picker</string>
+</resources>

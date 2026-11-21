@@ -1,0 +1,6 @@
+{
+  "name": "Trip Expenditure",
+  "description": "Social travel planning, traveler deposits by name, multi-currency expense splitting, and detailed PDF & CSV data export.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
