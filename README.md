@@ -4,7 +4,7 @@ Trip Expenditure is an Android travel and expense companion built for organizing
 
 The app uses a Clean MVVM structure, Jetpack Compose, and a fully on-device Room/SQLite database. It requires no backend service or cloud account for its core workflow.
 
-**Package / application ID:** `com.aistudio.tripexpenditure.trpxvq`  
+**Package / application ID:** `com.tripexpenditure.trpxvq`  
 **Namespace:** `com.example`  
 **Minimum Android:** API 24 (Android 7.0)  
 **Compile / target SDK:** API 36  
